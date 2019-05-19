@@ -1,0 +1,2 @@
+工具文件包括：
+getword.py: 用于下载单词列表的读音，每个单词用逗号隔开。例如 python getword.py apple,banana 会下载这两个单词的读音文件到当前目录下的sounds文件夹中。
